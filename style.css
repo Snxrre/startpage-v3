@@ -31,7 +31,6 @@ a {
   text-decoration: none;
 }
 
-a:focus,
 a:hover {
   color: #f6c177;
 }
