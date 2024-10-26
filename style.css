@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 html {
-  background-color: #191724;
+  background-color: #1e1e2e;
   align-items: center;
-  color: #ebbcba;
+  color: #cba6f7;
   display: flex;
   font-family: 'Fira Code Nerd Font', monospace;
   font-size: 22px;
@@ -23,7 +23,7 @@ h1 {
   grid-column: 1 / -1;
   margin: 0;
   text-align: center;
-  color: #eb6f92;
+  color: #f38ba8;
 }
 
 a {
@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: #f6c177;
+  color: #89b4fa;
 }
 
 nav {
@@ -53,7 +53,7 @@ ul {
 li:first-child {
   font-weight: bold;
   line-height: 2em;
-  color: #31748f;
+  color: #fab387;
 }
 
 img {
